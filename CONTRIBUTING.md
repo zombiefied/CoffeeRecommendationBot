@@ -1,6 +1,6 @@
 ## Contribution Guidelines
-**YOU CAN CONTRIBUTE !**  
-No matter your level of expertise ! Experiment, play around and adjust.
+**YOU CAN CONTRIBUTE!**  
+No matter your level of expertise! Experiment, play around and adjust.
 I will review and discuss it with you and probably learn something new myself :)
 Furthermore there are many ways to adjust:
 
@@ -12,7 +12,7 @@ Furthermore there are many ways to adjust:
 - Clean up the mess
 
 ...
-There is so much to do ! I'm looking forward to your contribution, no matter how experienced you are !
+There is so much to do! I'm looking forward to your contribution, no matter how experienced you are!
 
 
 <b>STEPS TO CONTRIBUTE - </b>
